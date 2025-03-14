@@ -1,4 +1,7 @@
- [![MasterHead](https://media.discordapp.net/attachments/1347672435033505903/1347997906732318720/Logo-removebg-preview.png?ex=67d473e1&is=67d32261&hm=0f178b7d301083b090946b94d19231264bb490ce69c58ce9a484ecd259b3bc06&=&format=webp&quality=lossless)
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1347672435033505903/1347997906732318720/Logo-removebg-preview.png?ex=67d473e1&is=67d32261&hm=0f178b7d301083b090946b94d19231264bb490ce69c58ce9a484ecd259b3bc06&=&format=webp&quality=lossless" alt="MasterHead">
+</p>
+
 <h1 align="center">Merhaba, Biz Techno Gnc</h1>
 <h3 align="center">Şirketimiz Hakkında</h3>
 
